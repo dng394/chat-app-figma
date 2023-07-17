@@ -1,2 +1,2 @@
-# chat-app-figma
- Chat App with Figma
+# Chat App with Figma
+ Figma prototype of chat app that addresses some common usability problems.
